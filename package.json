@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^4.3.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  },
+  "scripts": {
+    "test": "jest --runInBand --force-exit"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
