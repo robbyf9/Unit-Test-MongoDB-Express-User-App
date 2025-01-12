@@ -15,7 +15,6 @@ describe("API Endpoints", () => {
   //       umur: 1,
   //     });
   //     expect(res.statusCode).toEqual(200);
-  //     console.log(res.body.message);
   //   });
   //   it("should update a user", async () => {
   //     const res = await request(app).put(`/api/users/${userId}`).send({
